@@ -9,7 +9,7 @@
 - 🌱 I've a strong grip on *HTML , CSS and Bootstrap 5*
 
 - 🌱 I’m currently learning *Java Script & ReactJS*
-- 👨‍💻 My projects are available at https://github.com/MAwais0/Muhammad_Awais/tree/master
+- 👨‍💻 My projects are available at https://github.com/MAwais0/My_Project/tree/master
 
 - 💬 Ask me about *Html CSS Bootstrap or JavaScript*
 
